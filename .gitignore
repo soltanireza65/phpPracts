@@ -1,0 +1,11 @@
+data/
+vendor/
+storage/
+# app/storage/
+# public/storage
+# public/hot
+.env
+
+node_modules/
+
+
